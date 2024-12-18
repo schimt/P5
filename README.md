@@ -1,5 +1,4 @@
-# P5 
-# Prediction of Traffic Flow
+# P5 Prediction of Traffic Flow using GCN 
 
 This repository contains the implementation and analysis of the project **"Prediction of Traffic Flow"**. The study focuses on predicting traffic flow at 15-minute intervals within Aalborg Kommune, utilizing Graph Neural Networks (GNNs) and time series data to address the global challenge of traffic congestion.
 
