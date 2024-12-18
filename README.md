@@ -11,14 +11,6 @@ This repository contains the implementation and analysis of the project **"Predi
 **Group:** cs-23-dvml-5-02  
 **Institution:** Department of Computer Science, Aalborg University  
 
-**Contributors:**  
-- Gonde Leon Winkelmann  
-- Laila Johnsen  
-- Niklas Kjærgaard Andersen  
-- Nikolai Schmidt Madsen  
-
-**Supervisor:** Raffaele Pojer  
-
 ---
 
 ## Objectives
